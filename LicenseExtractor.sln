@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseExtractor", "LicenseExtractor\LicenseExtractor.csproj", "{0006941B-C7F7-4500-9504-0FB3206D0D00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LicenseExtractor.Lib", "LicenseExtractor.Lib\LicenseExtractor.Lib.csproj", "{6F910CE6-8288-4440-BF0B-547D7CF1C9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0006941B-C7F7-4500-9504-0FB3206D0D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0006941B-C7F7-4500-9504-0FB3206D0D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0006941B-C7F7-4500-9504-0FB3206D0D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0006941B-C7F7-4500-9504-0FB3206D0D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F910CE6-8288-4440-BF0B-547D7CF1C9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F910CE6-8288-4440-BF0B-547D7CF1C9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F910CE6-8288-4440-BF0B-547D7CF1C9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F910CE6-8288-4440-BF0B-547D7CF1C9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB8231F7-EFD1-4BC9-AEA9-6B2D289F9BF3}
+	EndGlobalSection
+EndGlobal
